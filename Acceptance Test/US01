@@ -1,4 +1,4 @@
-Feature: HU01:  Crear una cuenta de usuario.
+Feature: Crear una cuenta de usuario.
 
 Scenario 01: 
 Dado que la aplicación permite registrarse una cuenta.

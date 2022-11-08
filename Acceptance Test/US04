@@ -1,0 +1,6 @@
+Feature: Confirmar el precio por hora
+
+Scenario 01:
+Dado que el usuario dejo su coche en el estacionamiento que tenga un precio por hora que eligió.
+Cuando el usuario regrese al estacionamiento la aplicación le dará un precio aproximado dependiendo del tiempo que dejo el carro.
+Entonces el usuario tendrá que pagarle al dueño del local el monto que salga en la aplicación.

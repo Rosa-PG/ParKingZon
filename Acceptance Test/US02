@@ -1,13 +1,13 @@
-Feature: HU01:  Crear una cuenta de usuario.
+Feature: Iniciar sesión.
 
-Scenario 01: 
-Dado que la aplicación permite registrarse una cuenta.
-Cuando el usuario presione el botón “Registrarse”.
-Entonces la aplicación le solicita su correo, nombre de usuario y una contraseña para crear una cuenta.
-Si se ingresan los datos correctamente, se le creara una cuenta al usuario.
+Scenario 01:
+Dado que la aplicación permite el ingreso a una cuenta.
+Cuando el usuario presione el botón “Iniciar Sesión”.
+Entonces la aplicación le solicita el correo y la contraseña con el que se creó la cuenta.
+Si se ingresa los datos correctamente, se iniciará la sesión del usuario.
 
-Scenario 02: 
-Dado que la aplicación permite registrarse una cuenta.
-Cuando el usuario presione el botón “Registrarse con “Google, Facebook o Instagram””.
-Entonces la aplicación le solicita una cuenta externa al usuario, ya sea de Google, Facebook o otras, se usan los datos de esta cuenta.
-Si se validan los datos correctamente, se le creara una cuenta al usuario.
+Scenario 02:
+Dado que la aplicación permite el ingreso a una cuenta externa.
+Cuando el usuario presione el botón “Iniciar Sesión con “Google, Facebook o Instagram””.
+Entonces la aplicación verificara si el usuario se ha registrado con una cuenta de Google, Facebook o Instagram.
+Si se ingresa los datos correctamente, se iniciará la sesión del usuario.

@@ -1,0 +1,7 @@
+Feature: Ver el historial de estacionamientos usados.
+
+Scenario 01:
+Dado que la aplicación permite ver el historial de estacionamientos contratados.
+Cuando el usuario presiona el botón “Historial”.
+Entonces se mostrará un apartado donde se puede visualizar todos los locales contratados.
+Si tienes alguna queja, duda o pregunta se podrá ver todos los datos del uso del estacionamiento.

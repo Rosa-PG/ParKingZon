@@ -1,0 +1,7 @@
+Feature:HU03: Encontrar un estacionamiento.
+
+Scenario 01:
+Dado que la aplicación cuenta con la opción de reservar un estacionamiento.
+Cuando el usuario precio el botón de “Reservar estacionamiento”.
+Entonces el usuario podrá ver todos los estacionamientos afiliados que estar cerca suyo revisando sus precios, distancia y seguridad.
+Si el usuario al usuario le gusta el precio, seleccionará una opción y se dirigirá al lugar.

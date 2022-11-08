@@ -1,0 +1,5 @@
+Feature: Actualizar datos.
+Scenario 01:
+Dado que la aplicación permite actualizar el perfil.
+Cuando el usuario presione el botón “Actualizar datos” dentro de “Mi perfil”.
+Entonces se abrirá un apartado donde podrá ver todos sus datos actuales y tendrá la opción de cambiarlos.

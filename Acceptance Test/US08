@@ -1,0 +1,6 @@
+Feature:HU08: Pagar la versión premium.
+
+Scenario 01:
+Dado que la aplicación permite actualizar el tipo de plan que usa el usuario.
+Cuando el usuario podrá ver todos los beneficios de que le da el plan premium como estacionamientos extra y sin necesidad de esperar en caso de que el lugar tenga ofertas.
+Entonces usuario podrá elegir si actualiza si desea este plan premium.

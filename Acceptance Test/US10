@@ -1,4 +1,5 @@
 Feature: Ver a los usuarios interesados.
+
 Scenario 01:
 Dado que la aplicación permite ver a todas las personas que deseen estacionarse en su local.
 Cuando el encargado reciba a los invitados podrá monitorear el tiempo que se queda el vehículo.

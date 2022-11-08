@@ -1,0 +1,6 @@
+Feature: Ver lista de clientes.
+
+Scenario 01:
+Dado que la aplicación permite ver a todos los usuarios que están en un estacionamiento.
+Cuando el encargado tenga algún problema con el usuario, podrá saber todos los datos necesarios para hacer un reclamo.
+Entonces eso facilitara al encargado para no ser estafado en algún momento.

@@ -1,0 +1,6 @@
+Feature: Registrarme como empresa.
+
+Scenario 01:
+Dado que la aplicación permite el registro del estacionamiento.
+Cuando la empresa desee, podrá unir su estacionamiento para promocionarlo.
+Entonces recibirán publicidad a costo de un porcentaje de lo que ganen por el alquiler.
